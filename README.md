@@ -30,7 +30,7 @@ Thanks a bunch for stopping by and supporting me!
 
 I still remember Window Media Player on windows has the visualization when you start to play the music, and I wanted to have the same experience when listening to Spotify. That is the reason I started this project.
 
-I found that there weren't many resources on building a proper real-world scale application, and that's my focus for sharing. I made a [Jira clone application][jira] as the first one for that purpose. [Nx workspace][nx] is getting more and more attention from the Angular community, but people are always confused about how to architect and set up a Nx project. I hope Angular Spotify will give you more insight on that despite the fact that it is my first project using Nx 🤣
+I found that there weren't many resources on building a proper real-world scale application, and that's my focus for sharing. I made a [Jira clone application][jira] as the first one for that purpose. [Nx workspace][nx] is getting more and more attention from the Angular community, but people are always confused about how to architect and set up a Nx project. I hope Angular Spotify will give you more insight on that despite the fact that it is my first project using Nx. 🤣
 
 ---
 
